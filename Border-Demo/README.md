@@ -1,8 +1,5 @@
-# React + Vite
+Assignment 2 : Create a Parent Component called Border which can provide some CSS border to any component nested into it. [Hint : You will need to use children props here
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+< Border>
+< Component >
+< Border />
